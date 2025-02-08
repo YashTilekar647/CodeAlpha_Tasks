@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load dataset
-df = pd.read_csv(r"C:\CODING\CodeAlphaInternship\Unemployment_Analysis\unemployment_data\data\unemployment_data.csv")
+df = pd.read_csv(data\unemployment_data.csv")
 
 
 # Display first few rows
